@@ -1,4 +1,5 @@
-theme  = "vim_dark_high_contrast"
+#theme  = "vim_dark_high_contrast"
+theme = "emacs"
 
 [editor]
 line-number = "relative"
