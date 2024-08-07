@@ -26,7 +26,7 @@ config.font = wezterm.font("Special Elite")
 -- config.font = wezterm.font("MesloLGS Nerd Font Mono")
 
 config.color_scheme = "3024 Night (Gogh)"
-config.enable_scroll_bar = true
+config.enable_scroll_bar = false
 config.exit_behavior = "Hold"
 config.font_size = 19
 config.line_height = 1.0
