@@ -1,0 +1,30 @@
+theme  = "vim_dark_high_contrast"
+
+[editor]
+line-number = "relative"
+mouse = true
+middle-click-paste = true
+auto-pairs = true
+true-color = true
+
+[editor.cursor-shape]
+insert = "bar"
+normal = "block"
+select = "underline"
+
+[editor.file-picker]
+hidden = false
+
+[editor.lsp]
+display-messages = true
+display-inlay-hints = true
+
+#[editor.whitespace]
+#render = "all"
+
+#[editor.soft-wrap]
+#enable = true
+
+# At most one section each of 'keys.normal', 'keys.insert' and 'keys.select'
+#[keys.normal]
+#C-s = ":w" # Maps the Control-s to the typable command :w which is an alias for :write (save file)
