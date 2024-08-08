@@ -28,7 +28,7 @@ config.font = wezterm.font("Special Elite")
 config.color_scheme = "3024 Night (Gogh)"
 config.enable_scroll_bar = false
 config.exit_behavior = "Hold"
-config.font_size = 18
+config.font_size = 20
 config.line_height = 1.0
 
 config.enable_tab_bar = false
