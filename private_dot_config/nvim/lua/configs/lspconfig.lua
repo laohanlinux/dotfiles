@@ -42,6 +42,8 @@ lspconfig.zls.setup {
     }
   }
 }
+
+-- https://oneofone.dev/post/neovim-lsp-go-rust/
 lspconfig.gopls.setup({
   cmd = { "gopls" },
   single_file_support = true,
